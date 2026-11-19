@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kujoushiori.github.io/ip-please-week-two"><img src="media/logo.png" width="160" alt="IP, PLEASE"></a>
+  <a href="https://magatamastudio.github.io/ip-please-week-two/"><img src="media/logo.png" width="160" alt="IP, PLEASE"></a>
 </p>
 
 <h1 align="center">IP, PLEASE · Week Two</h1>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kujoushiori.github.io/ip-please-week-two"><b>▶ Play in your browser: kujoushiori.github.io/ip-please-week-two</b></a><br>
+  <a href="https://magatamastudio.github.io/ip-please-week-two/"><b>▶ Play in your browser: kujoushiori.github.io/ip-please-week-two</b></a><br>
   <sub>The original six days are at <a href="https://ip-please.github.io">ip-please.github.io</a>. Pick <b>English</b> on the first screen.</sub>
 </p>
 

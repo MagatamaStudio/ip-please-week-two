@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kujoushiori.github.io/ip-please-week-two"><img src="media/logo.png" width="160" alt="IP, PLEASE"></a>
+  <a href="https://magatamastudio.github.io/ip-please-week-two/"><img src="media/logo.png" width="160" alt="IP, PLEASE"></a>
 </p>
 
 <h1 align="center">IP, PLEASE · 第二周</h1>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kujoushiori.github.io/ip-please-week-two"><b>▶ 在线玩：kujoushiori.github.io/ip-please-week-two</b></a><br>
+  <a href="https://magatamastudio.github.io/ip-please-week-two/"><b>▶ 在线玩：kujoushiori.github.io/ip-please-week-two</b></a><br>
   <sub>原版 6 天在 <a href="https://ip-please.github.io">ip-please.github.io</a></sub>
 </p>
 
@@ -51,7 +51,7 @@
 《IP, PLEASE》第二周已严肃上线：原版 6 天之后多了 3 天。
 你拒过的人换了一身伪装回来了，这次窗口边多了个档案柜。
 Week two is now seriously online: three more days after the original six. The people you denied are back with better papers, and there's a filing cabinet at your window.
-https://kujoushiori.github.io/ip-please-week-two
+https://magatamastudio.github.io/ip-please-week-two/
 @DarioAmodei @claudeai @AnthropicAI @dukope
 ```
 
