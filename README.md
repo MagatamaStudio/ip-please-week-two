@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://magatamastudio.github.io/ip-please-week-two/"><b>▶ 在线玩：kujoushiori.github.io/ip-please-week-two</b></a><br>
+  <a href="https://magatamastudio.github.io/ip-please-week-two/"><b>▶ 在线玩：magatamastudio.github.io/ip-please-week-two</b></a><br>
   <sub>原版 6 天在 <a href="https://ip-please.github.io">ip-please.github.io</a></sub>
 </p>
 
